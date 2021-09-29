@@ -13,3 +13,4 @@ usage: python3 cross_corr_via_serial_main.py  "/dev/tty.usbmodem146301" 19200
 
 usage: python3 cross_corr_via_serial_thread.py "/dev/tty.usbmodem146301" 19200
 
+logger_simulator_01.ino, logger_simulator_02.ino: signal generators on arduino
